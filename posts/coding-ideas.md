@@ -1,7 +1,7 @@
 ---
 title: 2024 Coding Ideas.
 description: A list of coding ideas I've had that I don't have time to build.
-date: 2021-08-01
+date: 2024-03-24
 tags:
   - coding
   - ideas
