@@ -2,8 +2,10 @@
 title: Markdown Guide
 description: Sample markdown syntax
 date: 2021-08-05
-tags: guide
+tags: example
 layout: layouts/post.njk
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 # h1 Heading

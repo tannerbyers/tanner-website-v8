@@ -2,8 +2,10 @@
 title: Features
 description: Code highlight and JSFiddle for developers
 date: 2021-08-06
-tags: guide
+tags: example
 layout: layouts/post.njk
+permalink: false
+eleventyExcludeFromCollections: true
 ---
 
 ## JSFiddle
