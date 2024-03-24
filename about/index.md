@@ -9,7 +9,6 @@ eleventyNavigation:
 
 Hey I'm Tanner.
 
-I've been coding since 2017 and am currently working on building this blog. 
-Polyglot Programmer w/ focus on web development.
+I've been coding since 2017 and am currently working on building this blog while I work at AWS.
 
 [My Github](https://github.com/tannerbyers)
